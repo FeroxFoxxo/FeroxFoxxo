@@ -4,7 +4,7 @@
 
 <p align="center">
   <br>
-🎓 High School Student. 🎓
+🎓 University Student. 🎓
   <br>
 💕 Software Development, Gaming, Music 💕
   <br>
