@@ -10,6 +10,9 @@
   💕 <strong>Software Development, Gaming, Music</strong> 💕
   <br>
   💻 <strong>C#, JavaScript, Python, Java</strong> 💻
+  <br>
+  <br>
+  <i>My GitHub mostly features finished projects - I'm slowly trying to add more!</i>
 </p>
 
 ---
