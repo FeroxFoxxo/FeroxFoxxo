@@ -1,12 +1,20 @@
+---
+
 <h3 align="center">
   Haiya! I'm Ferox ❤️
 </h3>
 
 <p align="center">
+  🎓 <strong>University Student</strong> 🎓
   <br>
-🎓 University Student. 🎓
+  💕 <strong>Software Development, Gaming, Music</strong> 💕
   <br>
-💕 Software Development, Gaming, Music 💕
-  <br>
-💻 C#, JavaScript, Python, Java 💻
+  💻 <strong>C#, JavaScript, Python, Java</strong> 💻
 </p>
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feroxfoxxo&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feroxfoxxo&layout=compact&langs_count=7&theme=date_night"/>
+</div>
