@@ -19,7 +19,7 @@
     I'm a passionate Software Engineering student from the University of Auckland, studying a Bachelor of Engineering (Honors). I've been programming since I was eight, and have a love for tackling complex problems and crafting elegant solutions for them.
   </p>
   <p>
-    While I have years of personal experience in languages like C# and Java, I'm always looking to expand my skills with new languages and frameworks and I'm currently combining my strong practical background with academic theory at University. I thrive in collaborative environments where I can passionately share my preexisting knowledge and quickly achieve shared goals through my strong self-motivation.
+    While I have years of personal experience in languages like C# and Java, I'm always looking to expand my skills with new languages and frameworks! I'm currently combining my practical experience with academic theory at University. I thrive in collaborative environments where I can passionately share my preexisting knowledge and quickly achieve shared goals through my strong self-motivation.
   </p>
   <p>
     I'm always open to new opportunities! Feel free to flick me a message and I'll be sure to look into it. Particularly, I love projects requiring innovative thinking and allow me to make a meaningful impact on the world as a whole.
